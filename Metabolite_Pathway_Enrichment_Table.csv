@@ -1,0 +1,8 @@
+"Pathway","Category","Total_genes","Significant_genes","Expected","Raw_P_value","FDR","Enrichment_ratio","Neg_log10_P"
+"Pregnancy","Disease",766,6,0.322,"1.57e-07","0.0000",18.63,6.8
+"Sepsis","Disease",23,2,0.00966,"3.95e-05","0.0055",207.04,4.4
+"Schizophrenia","Disease",101,2,0.0424,"7.76e-04","0.0724",47.17,3.11
+"Essential hypertension","Disease",7,1,0.00294,"2.94e-03","0.1340",340.14,2.53
+"Rhizomelic chondrodysplasia punctata","Disease",7,1,0.00294,"2.94e-03","0.1340",340.14,2.53
+"Alpha Linolenic Acid and Linoleic Acid Metabolism","Metabolism",17,3,0.102,"7.88e-05","0.0077",29.41,4.1
+"Phospholipid Biosynthesis","Metabolism",29,2,0.174,"1.13e-02","0.5530",11.49,1.95
